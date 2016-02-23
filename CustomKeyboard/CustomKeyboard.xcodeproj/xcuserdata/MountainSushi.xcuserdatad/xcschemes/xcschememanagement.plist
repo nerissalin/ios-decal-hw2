@@ -4,7 +4,12 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Hw2 Keyboard.xcscheme</key>
+		<key>CalKeyboard.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>CustomKeyboard.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +17,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>9BC4C8601C73C62B00177CF0</key>
+		<key>3AAA63951BA9263900E3822E</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>9BC4C8711C73C62B00177CF0</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>9BC4C87C1C73C62B00177CF0</key>
+		<key>3AAA63AF1BA9283500E3822E</key>
 		<dict>
 			<key>primary</key>
 			<true/>
